@@ -18,5 +18,15 @@ html {
 }
 
 body {
+  color: #a9fdac;
   margin-bottom: 60px;
+  background: linear-gradient(to top, #223843, #32a287);
+}
+
+a, a:visited {
+  color: #f1ffe7;
+}
+
+a:hover {
+  color: #223843;
 }

@@ -1,25 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kwams\\Documents\\golazotry\\UR.Golazo\\UR.Golazo.csproj": {}
+    "C:\\Users\\jmugu\\OneDrive\\Documents\\UR Golazzo\\UR.Golazo\\UR.Golazo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kwams\\Documents\\golazotry\\UR.Golazo\\UR.Golazo.csproj": {
+    "C:\\Users\\jmugu\\OneDrive\\Documents\\UR Golazzo\\UR.Golazo\\UR.Golazo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kwams\\Documents\\golazotry\\UR.Golazo\\UR.Golazo.csproj",
+        "projectUniqueName": "C:\\Users\\jmugu\\OneDrive\\Documents\\UR Golazzo\\UR.Golazo\\UR.Golazo.csproj",
         "projectName": "UR.Golazo",
-        "projectPath": "C:\\Users\\kwams\\Documents\\golazotry\\UR.Golazo\\UR.Golazo.csproj",
-        "packagesPath": "C:\\Users\\kwams\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kwams\\Documents\\golazotry\\UR.Golazo\\obj\\",
+        "projectPath": "C:\\Users\\jmugu\\OneDrive\\Documents\\UR Golazzo\\UR.Golazo\\UR.Golazo.csproj",
+        "packagesPath": "C:\\Users\\jmugu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jmugu\\OneDrive\\Documents\\UR Golazzo\\UR.Golazo\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\kwams\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\jmugu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,6 +45,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Unirest-API": {
+              "target": "Package",
+              "version": "[1.0.7.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -56,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

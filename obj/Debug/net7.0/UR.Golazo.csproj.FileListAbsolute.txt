@@ -29,3 +29,45 @@ C:\Users\kwams\Documents\golazotry\UR.Golazo\obj\Debug\net7.0\refint\UR.Golazo.d
 C:\Users\kwams\Documents\golazotry\UR.Golazo\obj\Debug\net7.0\UR.Golazo.pdb
 C:\Users\kwams\Documents\golazotry\UR.Golazo\obj\Debug\net7.0\UR.Golazo.genruntimeconfig.cache
 C:\Users\kwams\Documents\golazotry\UR.Golazo\obj\Debug\net7.0\ref\UR.Golazo.dll
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\bin\Debug\net7.0\appsettings.json
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\bin\Debug\net7.0\UR.Golazo.staticwebassets.runtime.json
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\bin\Debug\net7.0\UR.Golazo.exe
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\bin\Debug\net7.0\UR.Golazo.deps.json
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\bin\Debug\net7.0\UR.Golazo.runtimeconfig.json
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\bin\Debug\net7.0\UR.Golazo.dll
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\bin\Debug\net7.0\UR.Golazo.pdb
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\obj\Debug\net7.0\UR.Golazo.csproj.AssemblyReference.cache
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\obj\Debug\net7.0\UR.Golazo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\obj\Debug\net7.0\UR.Golazo.AssemblyInfoInputs.cache
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\obj\Debug\net7.0\UR.Golazo.AssemblyInfo.cs
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\obj\Debug\net7.0\UR.Golazo.csproj.CoreCompileInputs.cache
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\obj\Debug\net7.0\UR.Golazo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\obj\Debug\net7.0\UR.Golazo.RazorAssemblyInfo.cache
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\obj\Debug\net7.0\UR.Golazo.RazorAssemblyInfo.cs
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\obj\Debug\net7.0\staticwebassets\msbuild.UR.Golazo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\obj\Debug\net7.0\staticwebassets\msbuild.build.UR.Golazo.props
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.UR.Golazo.props
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.UR.Golazo.props
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\obj\Debug\net7.0\scopedcss\bundle\UR.Golazo.styles.css
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\obj\Debug\net7.0\scopedcss\projectbundle\UR.Golazo.bundle.scp.css
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\obj\Debug\net7.0\UR.Golazo.dll
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\obj\Debug\net7.0\refint\UR.Golazo.dll
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\obj\Debug\net7.0\UR.Golazo.pdb
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\obj\Debug\net7.0\UR.Golazo.genruntimeconfig.cache
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\obj\Debug\net7.0\ref\UR.Golazo.dll
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\bin\Debug\net7.0\UR.Golazo.dll.config
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\bin\Debug\net7.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\bin\Debug\net7.0\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\bin\Debug\net7.0\Microsoft.Threading.Tasks.dll
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\bin\Debug\net7.0\System.Net.Http.Extensions.dll
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\bin\Debug\net7.0\System.Net.Http.Primitives.dll
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\bin\Debug\net7.0\unirest-net.dll
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\obj\Debug\net7.0\UR.Golazo.csproj.SuggestedBindingRedirects.cache
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\obj\Debug\net7.0\UR.Golazo.dll.config
+C:\Users\jmugu\OneDrive\Documents\UR Golazzo\UR.Golazo\obj\Debug\net7.0\UR.Golazo.csproj.CopyComplete
